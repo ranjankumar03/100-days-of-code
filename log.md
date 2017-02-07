@@ -18,10 +18,9 @@
 
 ### Day 2: February 7th, 2017
 
-**Today's Progress**: I struggled for one hour and didn't complete the "Counting Cards" challenege in the Javascript module.
+**Today's Progress**: I struggled for one hour and didn't complete the "Counting Cards" challenege in the Javascript module. But then, I took a break, thought about it, wrote out some ideas and tested them and found the solution!
 
-**Thoughts**: It was frustrating. At first, I didn't understand what desired outcome was but after doing some research and reading about what other people were trying to do, I realized there were multiple ways to solve it. I didn't complete it because I ran out of time but I think I'll be able to figure out the solution tomorrow.
-
+**Thoughts**: It was frustrating. At first, I didn't understand what desired outcome was but after doing some research and reading about what other people were trying to do, I realized there were multiple ways to solve it. I didn't complete it because I ran out of time but later found some time to try a few other ideas and solved it! As I delve deeper into the tutorials on FCC, I realize I'm going to need to be creative with the ways I solve the upcoming exercises. 
 
 
 
