@@ -13,7 +13,7 @@
 
 **Today's Progress**: 
 
-**Thoughts** -->
+**Thoughts**: -->
 
 
 ### Day 1: February 6th, 2017
@@ -42,4 +42,10 @@
 **Today's Progress**: Coded for 1 hour at a Starbucks in Dana Point. I finished 8 Javascript exercises on FCC. Still having some trouble understanding arrays. 
 
 **Thoughts**: Feeling good! I cranked through those 8 problems and got stuck towards the end of the hour on the 9th challenge "Nested for Loops." I'll figure it out tomorrow. 
+
+### Day 5: February 10th, 2017
+
+**Today's Progress**: Coded for 35 minutes. Wish I had more time. I started "Profile Lookup" challenge but didn't have time to try it more than once. Hopefully I can finish the last 8 Javascript challenges tomorrow or before Monday. 
+
+**Thoughts**: Life is good. Code is good. I am really enjoying this because it brings me back to the days in  Pre-Calc and Calculus when I would have to try a bunch of different ways to get the solution. It's a challenge and I'm ready for it. Bring it on.
 
