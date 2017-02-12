@@ -1,12 +1,19 @@
 # I've joined the #100DaysOfCode Challenge.
 
+## Goal
+* to finish the Free Code Camp **Front End Development Certificate** by the end of the #100DaysOfCode Challenge on May 17th, 2017
+
+## Steps to Stay on Track
+1. By February 28th, have all FCC modules up to JSON, APIs and Ajax completed
+2. By March 31st, have all FCC modules up to Advanced Algorithms completed
+
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## If you've decided to join:
+## If want to join:
 1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2. Fork this repo and commit to the [Log](log.md) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
 3. **Code minimum of 30 minutes every day for the next 100 days.**
@@ -18,5 +25,5 @@
 9. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
 ## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
+* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to Alex Kallaway on Twitter: [@ka11away](https://twitter.com/ka11away)
 * If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
