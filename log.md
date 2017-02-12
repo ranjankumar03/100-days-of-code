@@ -49,3 +49,9 @@
 
 **Thoughts**: Life is good. Code is good. I am really enjoying this because it brings me back to the days in  Pre-Calc and Calculus when I would have to try a bunch of different ways to get the solution. It's a challenge and I'm ready for it. Bring it on.
 
+### Day 6: February 11th, 2017
+
+**Today's Progress**: I coded for 2 hours at the library. I finally finished the Javascript module and the Object Oriented and Functional Programming module. Now onto the Basic Algorithm Scripting module.
+
+**Thoughts**: I'm a little nervous for the next module but as long as I believe in myself and put in the work, I know I'll be able to figure them out.
+
