@@ -55,3 +55,9 @@
 
 **Thoughts**: I'm a little nervous for the next module but as long as I believe in myself and put in the work, I know I'll be able to figure them out.
 
+### Day 7: February 12th, 2017
+
+**Today's Progress**: Coded for 30 minutes and finished my first algorithm problem! It was simpler than I thought. I learned that I can run/execute methods on the return line in JS. 
+
+**Thoughts**: Feeling good! I'm excited for more algorithm problems because I think they'll be fun. As a kid, I remember playing Madden and other sports games, thinking about how the video game figured out where to put the yellow line for the first down and what the algorithm looked like in my head. 
+
