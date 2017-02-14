@@ -61,3 +61,8 @@
 
 **Thoughts**: Feeling good! I'm excited for more algorithm problems because I think they'll be fun. As a kid, I remember playing Madden and other sports games, thinking about how the video game figured out where to put the yellow line for the first down and what the algorithm looked like in my head. 
 
+### Day 8: February 13th, 2017
+
+**Today's Progress**: Coded for 30 minutes trying to solve Factorals in the second basic algorithm module. I know the formula but haven't quite figured out how to tell in it words that Javascript understands.
+
+**Thoughts**: Felt frustrated today but let it pass on, like a cloud. Tomorrow, I'll work and figure it out (I hope). 
