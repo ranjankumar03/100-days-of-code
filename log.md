@@ -66,3 +66,9 @@
 **Today's Progress**: Coded for 30 minutes trying to solve Factorals in the second basic algorithm module. I know the formula but haven't quite figured out how to tell in it words that Javascript understands.
 
 **Thoughts**: Felt frustrated today but let it pass on, like a cloud. Tomorrow, I'll work and figure it out (I hope). 
+
+### Day 9: February 14th, 2017
+
+**Today's Progress**: Coded for 45 minutes and figured out the second algorithm on FCC!
+
+**Thoughts**: Feeling good but read this https://goo.gl/5OGPXi and now second guessing the path I'm on. Going to spend a few days thinking about what's the best track and what my goals should be.
