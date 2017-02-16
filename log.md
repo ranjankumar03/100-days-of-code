@@ -72,3 +72,9 @@
 **Today's Progress**: Coded for 45 minutes and figured out the second algorithm on FCC!
 
 **Thoughts**: Feeling good but read this https://goo.gl/5OGPXi and now second guessing the path I'm on. Going to spend a few days thinking about what's the best track and what my goals should be.
+
+### Day 10: February 15th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Didn't accomplish much. Watched a few videos on Javascript. Trying to figure out how to start writing my code in my own text editor.
+
+**Thoughts**: Feeling some "resistance" but no one said it was going to be easy! Still trotting along with a big smile. 
