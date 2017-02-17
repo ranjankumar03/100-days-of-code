@@ -1,7 +1,7 @@
 # I've joined the #100DaysOfCode Challenge.
 
 ## Things I want to learn
-* How to write Javascript in Brackets offline (so I can practice while reading <i>YDKJS</i> and <i>Eloquent Javascript</i>
+* How to write Javascript in Brackets offline (so I can practice while reading <i>YDKJS</i> and <i>Eloquent Javascript</i>)
 * How to use Github for a real project.
 
 
