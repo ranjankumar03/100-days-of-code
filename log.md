@@ -77,4 +77,10 @@
 
 **Today's Progress**: Coded for 30 minutes. Didn't accomplish much. Watched a few videos on Javascript. Trying to figure out how to start writing my code in my own text editor.
 
-**Thoughts**: Feeling some "resistance" but no one said it was going to be easy! Still trotting along with a big smile. 
+**Thoughts**: Feeling some "resistance" but no one said it was going to be easy! Still trotting along with a big smile.
+
+### Day 11: February 16th, 2017
+
+**Today's Progress**: Coded for 45 minutes. Feeling fantastic! Had an okay day but coding sure has me in high spirits! Read up to page 31 in YDKJS, Up and Going. Practiced JS in the Chrome dev tools console- super cool!
+
+**Thoughts**: I can totally do this! I felt overwhelmed the other day but I'm feeling good now! On track.   
