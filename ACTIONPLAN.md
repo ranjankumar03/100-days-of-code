@@ -1,7 +1,7 @@
 # Action Plan for the #100DaysofCode and Beyond
 1. All 6 books in the YDKJS Series3.2k
-  ...1a. Read YDKJS- "Up and Going"
-  1b. Read YDKJS- "Scopes & Closures".
+    1a. Read YDKJS- "Up and Going"
+    1b. Read YDKJS- "Scopes & Closures".
   1c. Read YDKJS- "this & Object Prototypes"
   1d. Read YDKJS- "Types & Grammar"
   1e. Read YDKJS- "Async & Performance"
