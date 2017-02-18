@@ -1,4 +1,4 @@
-# Action Plan for the #100DaysofCode and Beyond
+# Action Plan for the #100DaysofCode and Beyond (started on Day 10, Feb. 15th, 2017)
 
 1. [  ]Read all 6 books in the YDKJS Series 
    1. [ ]Read YDKJS- "Up and Going"
