@@ -17,5 +17,4 @@
 10. Book - Open Data Structures625
 11. Project - Clone this Admin template1.2k using React, Angular, or Vue
 
-
-<i>Guide suggested by @P1xt on @freeCodeCamp <link https://forum.freecodecamp.com/t/computer-guide-get-job-ready-with-1-fcc-cert-3-projects-2-courses-and-10-books/64027>here</link>
+<i>Guide suggested by @P1xt on @freeCodeCamp [here](https://forum.freecodecamp.com/t/computer-guide-get-job-ready-with-1-fcc-cert-3-projects-2-courses-and-10-books/64027</i>
