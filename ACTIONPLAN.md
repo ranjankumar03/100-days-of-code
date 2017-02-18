@@ -1,4 +1,5 @@
 # Action Plan for the #100DaysofCode and Beyond
+
 1. All 6 books in the YDKJS Series3.2k
   a.Read YDKJS- "Up and Going"
     1b. Read YDKJS- "Scopes & Closures".
@@ -18,3 +19,11 @@
 11. Project - Clone this Admin template1.2k using React, Angular, or Vue
 
 <i>Guide suggested by @P1xt on @freeCodeCamp [here](https://forum.freecodecamp.com/t/computer-guide-get-job-ready-with-1-fcc-cert-3-projects-2-courses-and-10-books/64027</i>
+
+
+Test
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
