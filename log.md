@@ -91,3 +91,8 @@
 
 **Thoughts**: The process is slow but if I rush, I won't learn things as well and it will hurt me in the future. #SlowandSteady
 
+### Day 13: February 18th, 2017
+
+**Today's Progress**: Coded for 120 minutes. Feeling great! Finished book 1 in the YDKJS series and started reading the second. Also, began reading Medium article on Pure CSS images. Super stoked to finish it later!
+
+**Thoughts**: Thinking that I will try to make JavaScript the first language I learn (and learn it well). I've heard that's one of the best things to do- learn your first language well and learn the fundamentals well so that's what I plan to do.
