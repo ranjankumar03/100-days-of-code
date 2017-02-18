@@ -84,3 +84,10 @@
 **Today's Progress**: Coded for 45 minutes. Feeling fantastic! Had an okay day but coding sure has me in high spirits! Read up to page 31 in YDKJS, Up and Going. Practiced JS in the Chrome dev tools console- super cool!
 
 **Thoughts**: I can totally do this! I felt overwhelmed the other day but I'm feeling good now! On track.   
+
+### Day 12: February 17th, 2017
+
+**Today's Progress**: Coded for 45 minutes. Feeling good still. Finished Chp1 of YDKJS Up and Going. Practiced writing some JS in the console.
+
+**Thoughts**: The process is slow but if I rush, I won't learn things as well and it will hurt me in the future. #SlowandSteady
+
