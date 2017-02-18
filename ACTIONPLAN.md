@@ -1,4 +1,4 @@
-# Action Plan for the #100DaysofCode and Beyond (started on Day 10, Feb. 15th, 2017)
+# Action Plan for the #100DaysofCode and Beyond 
 
 1. [  ]Read all 6 books in the YDKJS Series 
    1. [ ]Read YDKJS- "Up and Going"
@@ -19,3 +19,4 @@
 11. [ ]Complete Project - Clone [this Admin template](http://rubix410.sketchpixy.com/ltr/dashboard) using React, Angular, or Vue
  
 <i>Guide suggested by @P1xt on @freeCodeCamp [here](https://forum.freecodecamp.com/t/computer-guide-get-job-ready-with-1-fcc-cert-3-projects-2-courses-and-10-books/64027)</i>
+<i>Started on Day 10, Feb. 15th, 2017</i>
