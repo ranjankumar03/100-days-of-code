@@ -93,6 +93,6 @@
 
 ### Day 13: February 18th, 2017
 
-**Today's Progress**: Coded for 120 minutes. Feeling great! Finished book 1 in the YDKJS series and started reading the second. Also, began reading Medium article on Pure CSS images. Super stoked to finish it later!
+**Today's Progress**: Coded for 150 minutes. Feeling great! Finished book 1 in the YDKJS series and started reading the second. Also, began reading Medium article on Pure CSS images. Started working on it in Brackets as well. Had some trouble and didn't finish but will tomorrow.
 
 **Thoughts**: Thinking that I will try to make JavaScript the first language I learn (and learn it well). I've heard that's one of the best things to do- learn your first language well and learn the fundamentals well so that's what I plan to do.
