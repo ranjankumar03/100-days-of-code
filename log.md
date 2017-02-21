@@ -102,3 +102,9 @@
 **Today's Progress**: Coded for 30 minutes. Finished Pure CSS tutorial and created a Koala Bear. 
 
 **Thoughts**: After a few more tutorials in CSS, I think I'll be able to make my own images.
+
+### Day 15: February 20th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Finished Chapter 2 of YDKJS series on Lexical Scope. 
+
+**Thoughts**: Learning a lot about JavaScript. Ready to write more code!
