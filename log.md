@@ -96,3 +96,9 @@
 **Today's Progress**: Coded for 150 minutes. Feeling great! Finished book 1 in the YDKJS series and started reading the second. Also, began reading Medium article on Pure CSS images. Started working on it in Brackets as well. Had some trouble and didn't finish but will tomorrow.
 
 **Thoughts**: Thinking that I will try to make JavaScript the first language I learn (and learn it well). I've heard that's one of the best things to do- learn your first language well and learn the fundamentals well so that's what I plan to do.
+
+### Day 14: February 19th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Finished Pure CSS tutorial and created a Koala Bear. 
+
+**Thoughts**: After a few more tutorials in CSS, I think I'll be able to make my own images.
