@@ -108,3 +108,9 @@
 **Today's Progress**: Coded for 30 minutes. Finished Chapter 2 of YDKJS series on Lexical Scope. 
 
 **Thoughts**: Learning a lot about JavaScript. Ready to write more code!
+
+### Day 16: February 21st, 2017
+
+**Today's Progress**: Coded for 45 minutes. Finished Chapter 3 and 4 of YDKJS on Scopes and Closures.
+
+**Thoughts**: Definitely understanding JS a lot better now. Looking forward to writing some JS code in the near future.
