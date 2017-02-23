@@ -114,3 +114,9 @@
 **Today's Progress**: Coded for 45 minutes. Finished Chapter 3 and 4 of YDKJS on Scopes and Closures.
 
 **Thoughts**: Definitely understanding JS a lot better now. Looking forward to writing some JS code in the near future.
+
+### Day 17: February 22nd, 2017
+
+**Today's Progress**: Coded for 45 minutes. Finished book 2 (Scopes and Closures) of YDKJS series. 
+
+**Thoughts**: Itching to getting back to writing some actual code.
