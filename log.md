@@ -120,3 +120,9 @@
 **Today's Progress**: Coded for 45 minutes. Finished book 2 (Scopes and Closures) of YDKJS series. 
 
 **Thoughts**: Itching to getting back to writing some actual code.
+
+### Day 18: February 23rd, 2017
+
+**Today's Progress**: Coded for 30 minutes. Finished chapter 2 of YDKJS book 3 this and object.
+
+**Thoughts**: Thinking that I need to do more JS exercises to fully understand what I'm learning.
