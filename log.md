@@ -126,3 +126,9 @@
 **Today's Progress**: Coded for 30 minutes. Finished chapter 2 of YDKJS book 3 this and object.
 
 **Thoughts**: Thinking that I need to do more JS exercises to fully understand what I'm learning.
+
+### Day 19: February 24th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Finished chapter 3 of YDKSJS book 3 this and object. Also checked out a few courses for developing a website.
+
+**Thoughts**: Thinking I'm going to take a break from all this JavaScript reading and do some actual coding.
