@@ -132,3 +132,9 @@
 **Today's Progress**: Coded for 30 minutes. Finished chapter 3 of YDKSJS book 3 this and object. Also checked out a few courses for developing a website.
 
 **Thoughts**: Thinking I'm going to take a break from all this JavaScript reading and do some actual coding.
+
+### Day 20: February 25th, 2017
+
+**Today's Progress**: Coded for 45 minutes. Successfully installed Ruby, Ruby Gems, and Homebrew using the command line. Started reading about Jekyll
+
+**Thoughts**: This is pretty cool! I'm stoked to build a website and learn about Jekyll.
