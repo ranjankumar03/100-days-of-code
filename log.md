@@ -138,3 +138,9 @@
 **Today's Progress**: Coded for 45 minutes. Successfully installed Ruby, Ruby Gems, and Homebrew using the command line. Started reading about Jekyll
 
 **Thoughts**: This is pretty cool! I'm stoked to build a website and learn about Jekyll.
+
+### Day 21: February 26th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Figured out how to get Jekyll site up and ready to customize!
+
+**Thoughts**: Feeling good!
