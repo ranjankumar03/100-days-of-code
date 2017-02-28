@@ -1,16 +1,12 @@
-# I've joined the #100DaysOfCode Challenge.
+# I've joined the #100DaysOfCode Challeng on February 6th, 2017.
 
-## Things I want to learn
+<!--## Things I want to learn
 * How to write Javascript in Brackets offline (so I can practice while reading <i>YDKJS</i> and <i>Eloquent Javascript</i>)
-* How to use Github for a real project.
+* How to use Github for a real project. -->
 
 
 ## Goal
 * to finish the Free Code Camp **Front End Development Certificate** by the end of the #100DaysOfCode Challenge on May 17th, 2017
-
-## Steps to Stay on Track
-1. By February 28th, have all FCC modules up to JSON, APIs and Ajax completed
-2. By March 31st, have all FCC modules up to Advanced Algorithms completed
 
 ## Contents
 * [Rules](rules.md)
