@@ -144,3 +144,9 @@
 **Today's Progress**: Coded for 30 minutes. Figured out how to get Jekyll site up and ready to customize!
 
 **Thoughts**: Feeling good!
+
+### Day 22: February 27th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Read Jekyll docs and successfully troubleshooted problem Live preview doesn't work in Brackets with Jekyll website but using terminal and command "serve" works -> problem solved. Now, to build my website, add content then customize the layout and looks.
+
+**Thoughts**: I'm feeling anxious! Now that I can code offline and build my website. I'm really wanting to get started already. 
