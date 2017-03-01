@@ -149,4 +149,10 @@
 
 **Today's Progress**: Coded for 30 minutes. Read Jekyll docs and successfully troubleshooted problem Live preview doesn't work in Brackets with Jekyll website but using terminal and command "serve" works -> problem solved. Now, to build my website, add content then customize the layout and looks.
 
-**Thoughts**: I'm feeling anxious! Now that I can code offline and build my website. I'm really wanting to get started already. 
+**Thoughts**: I'm feeling anxious! Now that I can code offline and build my website. I'm really wanting to get started already.
+
+### Day 24: February 28th, 2017
+
+**Today's Progress**: Coded for 35 minutes. Learned more about Jekyll through docs and started editing content from basic website iteration. Customizing my content then planning on customizing layout.
+
+**Thoughts**: I like Jekyll! I like that you can write posts and if you set the date to a date in the future, they won't show until that date comes. It's like scheduling posts for the future without dealing with a scheduler. 
