@@ -151,8 +151,14 @@
 
 **Thoughts**: I'm feeling anxious! Now that I can code offline and build my website. I'm really wanting to get started already.
 
-### Day 24: February 28th, 2017
+### Day 23: February 28th, 2017
 
 **Today's Progress**: Coded for 35 minutes. Learned more about Jekyll through docs and started editing content from basic website iteration. Customizing my content then planning on customizing layout.
 
 **Thoughts**: I like Jekyll! I like that you can write posts and if you set the date to a date in the future, they won't show until that date comes. It's like scheduling posts for the future without dealing with a scheduler. 
+
+### Day 24: March 1st, 2017
+
+**Today's Progress**: Coded for 40 minutes. Learning more and more about Jekyll. Successfully created new pages.
+
+**Thoughts**: Jekyll is so wonderful! I created new md files for my pages and that automatically added them into my navbar- so clever
