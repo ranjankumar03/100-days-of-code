@@ -159,6 +159,6 @@
 
 ### Day 24: March 1st, 2017
 
-**Today's Progress**: Coded for 40 minutes. Learning more and more about Jekyll. Successfully created new pages.
+**Today's Progress**: Coded for 70 minutes. Learning more and more about Jekyll. Successfully created new pages and deployed my repository on Github Pages. 
 
 **Thoughts**: Jekyll is so wonderful! I created new md files for my pages and that automatically added them into my navbar- so clever
