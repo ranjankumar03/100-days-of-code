@@ -162,3 +162,9 @@
 **Today's Progress**: Coded for 70 minutes. Learning more and more about Jekyll. Successfully created new pages and deployed my repository on Github Pages. 
 
 **Thoughts**: Jekyll is so wonderful! I created new md files for my pages and that automatically added them into my navbar- so clever
+
+### Day 25: March 2nd, 2017
+
+**Today's Progress**: Coded for 120 minutes - longest day yet. I spent a lot of time adding content to my website. I ran into some trouble though- I have a file on Github, in my repository that has the correct code for the main index.html file but when I visit my Github pages url, it shows the old file. Tomorrow, I'll work on fixing this. 
+
+**Thoughts**: I'm enjoying this! It's really cool to build a website and learn how all the pieces fit together. 
