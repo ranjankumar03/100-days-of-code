@@ -168,3 +168,9 @@
 **Today's Progress**: Coded for 120 minutes - longest day yet. I spent a lot of time adding content to my website. I ran into some trouble though- I have a file on Github, in my repository that has the correct code for the main index.html file but when I visit my Github pages url, it shows the old file. Tomorrow, I'll work on fixing this. 
 
 **Thoughts**: I'm enjoying this! It's really cool to build a website and learn how all the pieces fit together. 
+
+### Day 26: March 3rd, 2017
+
+**Today's Progress**: Coded for 40 minutes. Tried troubleshooting Github problem but no luck so far. Made a screen recording and hoping FCC Orange County community will be able to help me. 
+
+**Thoughts**: Feeling a little frustrated but I think I'll be able to figure it out soon. 
