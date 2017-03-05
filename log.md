@@ -174,3 +174,9 @@
 **Today's Progress**: Coded for 40 minutes. Tried troubleshooting Github problem but no luck so far. Made a screen recording and hoping FCC Orange County community will be able to help me. 
 
 **Thoughts**: Feeling a little frustrated but I think I'll be able to figure it out soon. 
+
+### Day 27: March 4th, 2017
+
+**Today's Progress**: Coded for 90 minutes. Tried troubleshooting Github and Jekyll problems. Couldn't figure it out so had to make new site from scratch but able to use content from previous version.
+
+**Thoughts**: Felt a little frustrated but ended up staying cool and finding a workaround.
