@@ -180,3 +180,9 @@
 **Today's Progress**: Coded for 90 minutes. Tried troubleshooting Github and Jekyll problems. Couldn't figure it out so had to make new site from scratch but able to use content from previous version.
 
 **Thoughts**: Felt a little frustrated but ended up staying cool and finding a workaround.
+
+### Day 28: March 5th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Made a lot of progress but lost it because of some issue with Brackets and Jekyll running at the same time. I learned that if I close the Terminal that is running "jekyll serve" before I save and close Brackets, Brackets won't save any of my changes. This is frustrating but I'm glad I figured it out. 
+
+**Thoughts**: I am hoping to finish this basic portfolio soon and then get back to reading on Javascript. 
