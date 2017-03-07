@@ -192,3 +192,9 @@
 **Today's Progress**: Coded for 45 minutes. Worked on Portfolio. It's plain, like vanilla, but it's almost done for a basic website.
 
 **Thoughts**: I swear, Brackets has a mind of it's own. I edited a page, hit ctrl + s and then clicked save all and moved onto to the next page to edit and when I returned to the previous page, Brackets had erased my code. Whaddup with that???
+
+### Day 30: March 7th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Wrote my first blog post (very short) but it worked and is still there after the pull request and merge! 
+
+**Thoughts**: So I keep editing my html pages, I click save and then create a pull request and merge the files but the text I added to the index.html pages disappears! I think it has something to do with the markdown files I've created for each page. I think I need to delete those. 
