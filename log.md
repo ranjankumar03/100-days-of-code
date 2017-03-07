@@ -186,3 +186,9 @@
 **Today's Progress**: Coded for 30 minutes. Made a lot of progress but lost it because of some issue with Brackets and Jekyll running at the same time. I learned that if I close the Terminal that is running "jekyll serve" before I save and close Brackets, Brackets won't save any of my changes. This is frustrating but I'm glad I figured it out. 
 
 **Thoughts**: I am hoping to finish this basic portfolio soon and then get back to reading on Javascript. 
+
+### Day 29: March 6th, 2017
+
+**Today's Progress**: Coded for 45 minutes. Worked on Portfolio. It's plain, like vanilla, but it's almost done for a basic website.
+
+**Thoughts**: I swear, Brackets has a mind of it's own. I edited a page, hit ctrl + s and then clicked save all and moved onto to the next page to edit and when I returned to the previous page, Brackets had erased my code. Whaddup with that???
