@@ -198,3 +198,9 @@
 **Today's Progress**: Coded for 30 minutes. Wrote my first blog post (very short) but it worked and is still there after the pull request and merge! 
 
 **Thoughts**: So I keep editing my html pages, I click save and then create a pull request and merge the files but the text I added to the index.html pages disappears! I think it has something to do with the markdown files I've created for each page. I think I need to delete those. 
+
+### Day 31: March 8th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Successfully created all the pages to my website and deployed them on Github Pages. WOOHOO! Check it out at [jjprevite.github.io]
+
+**Thoughts**: I feel more confident in my abilities than I did a few weeks ago. With time, I was able to figure out how Jekyll works and now have my own website. I also started a tutorial on how to use Illustrator. 
