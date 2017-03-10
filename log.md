@@ -204,3 +204,9 @@
 **Today's Progress**: Coded for 60 minutes. Successfully created all the pages to my website and deployed them on Github Pages. WOOHOO! Check it out at [jjprevite.github.io]
 
 **Thoughts**: I feel more confident in my abilities than I did a few weeks ago. With time, I was able to figure out how Jekyll works and now have my own website. I also started a tutorial on how to use Illustrator. 
+
+### Day 32: March 9th, 2017
+
+**Today's Progress**: Coded for 105 minutes. I watched 4 episodes from this series on Illustrator, then I read 3 chapters from YDKJS, book 3. Only one chapter to go in book 3.
+
+**Thoughts**: Thinking I should start working on my own project. I'm planning on waiting till tomorrow to decide because if I get into a ChingU cohort then I might have a project to work on. Until tomorrow! 
