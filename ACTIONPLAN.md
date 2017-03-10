@@ -3,7 +3,7 @@
 1. [ ]Read all 6 books in the YDKJS Series 
    1. [X]Read YDKJS- "Up and Going"
    2. [X]Read YDKJS- "Scopes & Closures"
-   3. [ ]Read YDKJS- "this & Object Prototypes"
+   3. [X]Read YDKJS- "this & Object Prototypes"
    4. [ ]Read YDKJS- "Types & Grammar"
    5. [ ]Read YDKJS- "Async & Performance"
    6. [ ]Read YDKJS- "ES6 & Beyond"
