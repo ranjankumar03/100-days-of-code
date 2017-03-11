@@ -210,3 +210,9 @@
 **Today's Progress**: Coded for 105 minutes. I watched 4 episodes from this series on Illustrator, then I read 3 chapters from YDKJS, book 3. Only one chapter to go in book 3.
 
 **Thoughts**: Thinking I should start working on my own project. I'm planning on waiting till tomorrow to decide because if I get into a ChingU cohort then I might have a project to work on. Until tomorrow! 
+
+### Day 33: March 10th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Read the last chapter of YDKJS Book 3. Also signed up for Lambda free online mini-boot camp.
+
+**Thoughts**: Excited to learn more Javascript and also hoping to get into Chingu cohort starting on March 17th.
