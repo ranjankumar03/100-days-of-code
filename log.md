@@ -216,3 +216,9 @@
 **Today's Progress**: Coded for 30 minutes. Read the last chapter of YDKJS Book 3. Also signed up for Lambda free online mini-boot camp.
 
 **Thoughts**: Excited to learn more Javascript and also hoping to get into Chingu cohort starting on March 17th.
+
+### Day 34: March 11th, 2017
+
+**Today's Progress**: Coded for 60 minutes. It wasn't exactly coding but it was watching some tutorials on Illustrator so that I can use it to create wireframes and designs for websites.
+
+**Thoughts**: I am really interested in front-end work!
