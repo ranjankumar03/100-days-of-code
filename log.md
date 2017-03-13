@@ -222,3 +222,9 @@
 **Today's Progress**: Coded for 60 minutes. It wasn't exactly coding but it was watching some tutorials on Illustrator so that I can use it to create wireframes and designs for websites.
 
 **Thoughts**: I am really interested in front-end work!
+
+### Day 35: March 12th, 2017
+
+**Today's Progress**: Coded for 45 minutes. Watched a few tutorials on Illustrator. 
+
+**Thoughts**: Feeling good! Tomorrow, I start an online mini-bootcamp with Lambda schools. Time for some Javascript.
