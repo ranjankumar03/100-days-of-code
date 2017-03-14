@@ -228,3 +228,9 @@
 **Today's Progress**: Coded for 45 minutes. Watched a few tutorials on Illustrator. 
 
 **Thoughts**: Feeling good! Tomorrow, I start an online mini-bootcamp with Lambda schools. Time for some Javascript.
+
+### Day 36: March 13th, 2017
+
+**Today's Progress**: Coded for 155 minutes (longest day yet). I watched an Illustrator tutorial for a little then starte a free online mini-bootcamp with Lambda School today. We reviewed Javascript and then I spent some time working on basic Javascript problems.
+
+**Thoughts**: I'm really liking the feeling of this online bootcamp! It's cool having a teacher and knowing that other people are working on the same problems. 
