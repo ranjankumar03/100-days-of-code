@@ -246,3 +246,10 @@
 **Today's Progress**: Coded for 60 minutes. Worked on Homework 2 from Lambda School Bootcamp.
 
 **Thoughts**: Wasn't able to solve a few Javascript problems. Need to learn for loops better. 
+
+
+### Day 39: March 16th, 2017
+
+**Today's Progress**: Coded for 105 minutes. Watched lecture on Javascript from Lambda mini bootcamp. Also watched some tutorials on Illustrator.
+
+**Thoughts**: Feeling good about Javascript and Illustrator! Need to finish problem sets for Lambda School.
