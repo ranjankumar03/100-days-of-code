@@ -259,3 +259,9 @@
 **Today's Progress**: Coded for 30 minutes. Worked on Javascript problem set from day 2 Homework from Lambda School.
 
 **Thoughts**: Feeling good! Wish I could solve some of these without having to look them up! But I will be able to down the road. 
+
+### Day 41: March 18th, 2017
+
+**Today's Progress**: Coded for 120 minutes. Worked on Javascript problem sets from Lambda school and also watched a demo of React Native via Sketch. 
+
+**Thoughts**: I think I could totally learn React Native!
