@@ -254,14 +254,23 @@
 
 **Thoughts**: Feeling good about Javascript and Illustrator! Need to finish problem sets for Lambda School.
 
+
 ### Day 40: March 17th, 2017
 
 **Today's Progress**: Coded for 30 minutes. Worked on Javascript problem set from day 2 Homework from Lambda School.
 
 **Thoughts**: Feeling good! Wish I could solve some of these without having to look them up! But I will be able to down the road. 
 
+
 ### Day 41: March 18th, 2017
 
 **Today's Progress**: Coded for 120 minutes. Worked on Javascript problem sets from Lambda school and also watched a demo of React Native via Sketch. 
 
 **Thoughts**: I think I could totally learn React Native!
+
+
+### Day 42: March 19th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Solved 3 Javascript problems from Homework 3 from Lambda school. Only 10 to go!
+
+**Thoughts**: Some of those were tough! Luckily, another Koala in my cohort was able to guide me. Shoutout to Rachel!
