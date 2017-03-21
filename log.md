@@ -274,3 +274,10 @@
 **Today's Progress**: Coded for 60 minutes. Solved 3 Javascript problems from Homework 3 from Lambda school. Only 10 to go!
 
 **Thoughts**: Some of those were tough! Luckily, another Koala in my cohort was able to guide me. Shoutout to Rachel!
+
+
+### Day 43: March 20th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Worked on Javascript problems in Homework 3 from Lambda school. Only 2 to go!
+
+**Thoughts**: I feel as though this homework assignment is helping me solidify my basic JS skills and I'm thankful for it. Feeling good!
