@@ -281,3 +281,10 @@
 **Today's Progress**: Coded for 60 minutes. Worked on Javascript problems in Homework 3 from Lambda school. Only 2 to go!
 
 **Thoughts**: I feel as though this homework assignment is helping me solidify my basic JS skills and I'm thankful for it. Feeling good!
+
+
+### Day 44: March 21st, 2017
+
+**Today's Progress**: Coded for 143 minutes. Spent 55 working on Homework 3 from Lambda School and then spent 88 on Adobe Illustrator tutorials.
+
+**Thoughts**: Feeling great! I feel as though I understand Javscript a lot better (espeically local and global scope and how to use this)
