@@ -288,3 +288,10 @@
 **Today's Progress**: Coded for 143 minutes. Spent 55 working on Homework 3 from Lambda School and then spent 88 on Adobe Illustrator tutorials.
 
 **Thoughts**: Feeling great! I feel as though I understand Javscript a lot better (espeically local and global scope and how to use this)
+
+
+### Day 45: March 22nd, 2017
+
+**Today's Progress**: Coded for 30 minutes. Finished Homework 3 from Lambda School. Started watching the lecture for the last lesson. Only about 25 minutes into it.
+
+**Thoughts**: Feeling fantastic! I am understanding Javascript a lot better now that I'm actually practicing what I've read about in YDKJS  
