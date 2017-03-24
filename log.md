@@ -294,4 +294,11 @@
 
 **Today's Progress**: Coded for 30 minutes. Finished Homework 3 from Lambda School. Started watching the lecture for the last lesson. Only about 25 minutes into it.
 
-**Thoughts**: Feeling fantastic! I am understanding Javascript a lot better now that I'm actually practicing what I've read about in YDKJS  
+**Thoughts**: Feeling fantastic! I am understanding Javascript a lot better now that I'm actually practicing what I've read about in YDKJS
+
+
+### Day 46: March 23rd, 2017
+
+**Today's Progress**: Coded for 80 minutes. Worked on Illustrator tutorail mostly.
+
+**Thoughts**: Feeling more confident about my Illustrator skills. This will be good for doing wireframes in the future and creating vectors.    
