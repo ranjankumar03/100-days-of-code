@@ -302,3 +302,10 @@
 **Today's Progress**: Coded for 80 minutes. Worked on Illustrator tutorail mostly.
 
 **Thoughts**: Feeling more confident about my Illustrator skills. This will be good for doing wireframes in the future and creating vectors.    
+
+
+### Day 47: March 24th 2017
+
+**Today's Progress**: Coded for 30 minutes. Worked on Illustrator tutorial. Almost through episode 15 of 19.
+
+**Thoughts**: Feeling confident in Illustrator!
