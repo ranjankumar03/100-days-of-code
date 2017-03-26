@@ -309,3 +309,10 @@
 **Today's Progress**: Coded for 30 minutes. Worked on Illustrator tutorial. Almost through episode 15 of 19.
 
 **Thoughts**: Feeling confident in Illustrator!
+
+
+### Day 48: March 25th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Worked on Illustrator tutorial. 7 minutes left of episode 15.
+
+**Thoughts**: Feeling good!
