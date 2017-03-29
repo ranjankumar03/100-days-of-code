@@ -330,3 +330,10 @@
 **Today's Progress**: Coded for 30 minutes. Worked on Illustrator tutorial.
 
 **Thoughts**: Feeling gooood!
+
+
+### Day 51: March 28th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Finished most of Illustrator tutorial. Two episodes left.
+
+**Thoughts**: My skills have improved!
