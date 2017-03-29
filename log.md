@@ -337,3 +337,10 @@
 **Today's Progress**: Coded for 30 minutes. Finished most of Illustrator tutorial. Two episodes left.
 
 **Thoughts**: My skills have improved!
+
+
+### Day 52: March 29th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Finished Tastytuts tutorial on Illustrator.
+
+**Thoughts**: Feeling way more skiled in Illustrator!
