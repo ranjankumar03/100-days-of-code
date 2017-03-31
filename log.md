@@ -344,3 +344,10 @@
 **Today's Progress**: Coded for 60 minutes. Finished Tastytuts tutorial on Illustrator.
 
 **Thoughts**: Feeling way more skiled in Illustrator!
+
+
+### Day 53: March 30th, 2017
+
+**Today's Progress**: Coded for 65 minutes. Finished Lecture 4 on Javascript mini-bootcamp from Lambda School. Also started brainstorming for React Native app that I'm going to work on with Koala Chingu cohort.
+
+**Thoughts**: I feel pretty good writing in JavaScript.
