@@ -351,3 +351,10 @@
 **Today's Progress**: Coded for 65 minutes. Finished Lecture 4 on Javascript mini-bootcamp from Lambda School. Also started brainstorming for React Native app that I'm going to work on with Koala Chingu cohort.
 
 **Thoughts**: I feel pretty good writing in JavaScript.
+
+
+### Day 54: March 31st, 2017
+
+**Today's Progress**: Coded for 30 mintues. Worked on some JS problems from Homework 4 from Lambda School then started Udemy course. Finished section 1.
+
+**Thoughts**: Excited for this new course because it covers front-end and back-end!
