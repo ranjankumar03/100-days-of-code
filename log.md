@@ -358,3 +358,10 @@
 **Today's Progress**: Coded for 30 mintues. Worked on some JS problems from Homework 4 from Lambda School then started Udemy course. Finished section 1.
 
 **Thoughts**: Excited for this new course because it covers front-end and back-end!
+
+
+### Day 55: April 1st, 2017
+
+**Today's Progress**: Coded for 60 minutes. Worked through Udemy course. 
+
+**Thoughts**: Excited to make projects for portfolio!
