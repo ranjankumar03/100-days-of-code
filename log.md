@@ -365,3 +365,10 @@
 **Today's Progress**: Coded for 60 minutes. Worked through Udemy course. 
 
 **Thoughts**: Excited to make projects for portfolio!
+
+
+### Day 56: April 2nd, 2017
+
+**Today's Progress**: Coded for 130 minutes. Worked through CSS section in Udemy course. 
+
+**Thoughts**: Feeling great! :D
