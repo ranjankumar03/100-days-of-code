@@ -372,3 +372,17 @@
 **Today's Progress**: Coded for 130 minutes. Worked through CSS section in Udemy course. 
 
 **Thoughts**: Feeling great! :D
+
+
+### Day 57: April 3rd, 2017
+
+**Today's Progress**: Coded for 60 minutes. Worked on Udemy course.
+
+**Thoughts**: Best $10 ever spent!
+
+
+### Day 58: April 4th, 2017
+
+**Today's Progress**: Coded for 90 minutes. Worked on Udemy course and learned about Flexbox through Flexbox Froggy.
+
+**Thoughts**: Feeling way better about CSS!
