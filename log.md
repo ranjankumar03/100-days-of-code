@@ -386,3 +386,10 @@
 **Today's Progress**: Coded for 90 minutes. Worked on Udemy course and learned about Flexbox through Flexbox Froggy.
 
 **Thoughts**: Feeling way better about CSS!
+
+
+### Day 59: April 5th, 2017
+
+**Today's Progress**: Coded for 120 mintues- woot woot! Worked on Udemy course. Designed a cool blog post in HTML/CSS. Also started writing a basic RN copy of an app from Pintrest on Snack.expo. 
+
+**Thoughts**: I have a way higher confidence level in HTML/CSS. I started writing in RN. It's pretty easy to pick up but I still feel like I have no idea what I'm doing. Luckily, I can see the code from Adeildo's redesign so it helps me understand the basics. I'll work more on it tomrorow. 
