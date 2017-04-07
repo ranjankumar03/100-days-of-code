@@ -393,3 +393,10 @@
 **Today's Progress**: Coded for 120 mintues- woot woot! Worked on Udemy course. Designed a cool blog post in HTML/CSS. Also started writing a basic RN copy of an app from Pintrest on Snack.expo. 
 
 **Thoughts**: I have a way higher confidence level in HTML/CSS. I started writing in RN. It's pretty easy to pick up but I still feel like I have no idea what I'm doing. Luckily, I can see the code from Adeildo's redesign so it helps me understand the basics. I'll work more on it tomrorow. 
+
+
+### Day 60: April 6th, 2017
+
+**Today's Progress**: Coded for 150 minutes- aw yeah! Worked on Udemy course. Finished a basic gallery. Almost finished a basic landing page for a startup. Need to fix a few things.
+
+**Thoughts**: I can do way more than I thought I could!
