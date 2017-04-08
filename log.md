@@ -407,3 +407,11 @@
 **Today's Progress**: Coded for 69 minutes. Started JS section in Udemy course. Already 27% done with it!
 
 **Thoughts**: I can totally finish by the end of this month!      
+
+
+### Day 62: April 8th, 2017
+
+**Today's Progress**: Coded for 185 minutes. Worked on Day 2 of Mr. Frog's React Native challenges. 
+**Links to Work**: http://imgur.com/a/G294I
+
+**Thoughts**: I felt very very lost in the beginning of my work period today. I almost gave up but keep going. I messed around with a few things and actually produced what I was hoping to produce! Woot woot!
