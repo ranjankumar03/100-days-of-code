@@ -400,3 +400,10 @@
 **Today's Progress**: Coded for 150 minutes- aw yeah! Worked on Udemy course. Finished a basic gallery. Almost finished a basic landing page for a startup. Need to fix a few things.
 
 **Thoughts**: I can do way more than I thought I could!
+
+
+### Day 61: April 7, 2017
+
+**Today's Progress**: Coded for 69 minutes. Started JS section in Udemy course. Already 27% done with it!
+
+**Thoughts**: I can totally finish by the end of this month!      
