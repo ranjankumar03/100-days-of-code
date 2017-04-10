@@ -415,3 +415,10 @@
 **Links to Work**: http://imgur.com/a/G294I
 
 **Thoughts**: I felt very very lost in the beginning of my work period today. I almost gave up but keep going. I messed around with a few things and actually produced what I was hoping to produce! Woot woot!
+
+
+### Day 63: April 9th, 2017
+
+**Today's Progress**: Coded for 60 minutes. Troubleshooted Jekyll footer site. 
+
+**Thoughts**: I think I may switch to a Bootstrap Porfolio. It will be more customizable and I'll have a better understanding of it.
