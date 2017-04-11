@@ -422,3 +422,10 @@
 **Today's Progress**: Coded for 60 minutes. Troubleshooted Jekyll footer site. 
 
 **Thoughts**: I think I may switch to a Bootstrap Porfolio. It will be more customizable and I'll have a better understanding of it.
+
+
+### Day 64: April 10th, 2017
+
+**Today's Progress**: Coded for 63 minutes today. Focused on Udemy course. Worked on JS section.
+
+**Thoughts**: I have a better grip on while loops.  
