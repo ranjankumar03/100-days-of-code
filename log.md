@@ -429,3 +429,10 @@
 **Today's Progress**: Coded for 63 minutes today. Focused on Udemy course. Worked on JS section.
 
 **Thoughts**: I have a better grip on while loops.  
+
+
+### Day 65: April 11th, 2017
+
+**Today's Progress**: Coded for 92 minutes today. Worked on Udemy course. Currently at 34%.
+
+**Thoughts**: Feeling good! I think I'm going to start coding for at least an hour each day.
