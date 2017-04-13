@@ -436,3 +436,10 @@
 **Today's Progress**: Coded for 92 minutes today. Worked on Udemy course. Currently at 34%.
 
 **Thoughts**: Feeling good! I think I'm going to start coding for at least an hour each day.
+
+
+### Day 66: April 12th, 2017
+
+**Today's Progress**: Coded for 166 minutes today. Worked on Web Dev Bootcamp Udemy course. Currently at 39%. Also bought Udemy course on React Native and Redux.
+
+**Thoughts**: Felt frustrated I couldn't download the latest version of Xcode because of my OS version (10.10.5) but I'll figure out a way around it. I think I can download an older version and it'll be just fine.   
