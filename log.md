@@ -443,3 +443,10 @@
 **Today's Progress**: Coded for 166 minutes today. Worked on Web Dev Bootcamp Udemy course. Currently at 39%. Also bought Udemy course on React Native and Redux.
 
 **Thoughts**: Felt frustrated I couldn't download the latest version of Xcode because of my OS version (10.10.5) but I'll figure out a way around it. I think I can download an older version and it'll be just fine.   
+
+
+### Day 67: April 13th, 2017
+
+**Today's Progress**: Coded for 94 minutes. Worked on Web Dev Bootcamp Udemy course. Currently at 42%. On track to finish 50% by Monday. 
+
+**Thoughts**: I am feeling good about the basics of DOM.
