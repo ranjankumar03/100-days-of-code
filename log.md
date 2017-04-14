@@ -450,3 +450,10 @@
 **Today's Progress**: Coded for 118 minutes. Worked on Web Dev Bootcamp Udemy course. Currently at 44%. On track to finish 50% by Monday. 
 
 **Thoughts**: I am feeling good about the basics of DOM.
+
+
+### Day 68: April 14th, 2017
+
+**Today's Progress**: Coded for 152 minutes. Worked on Web Dev Bootcamp Udemy course. Currently at 48%. Started RGB Color Game.
+
+**Thoughts**: Now, I am finally feeling like I'm making something worthy of sharing!
