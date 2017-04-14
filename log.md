@@ -447,6 +447,6 @@
 
 ### Day 67: April 13th, 2017
 
-**Today's Progress**: Coded for 94 minutes. Worked on Web Dev Bootcamp Udemy course. Currently at 42%. On track to finish 50% by Monday. 
+**Today's Progress**: Coded for 118 minutes. Worked on Web Dev Bootcamp Udemy course. Currently at 44%. On track to finish 50% by Monday. 
 
 **Thoughts**: I am feeling good about the basics of DOM.
