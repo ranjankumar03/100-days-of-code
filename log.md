@@ -457,3 +457,10 @@
 **Today's Progress**: Coded for 152 minutes. Worked on Web Dev Bootcamp Udemy course. Currently at 48%. Started RGB Color Game.
 
 **Thoughts**: Now, I am finally feeling like I'm making something worthy of sharing!
+
+
+### Day 69: April 15th, 2017
+
+**Today's Progress**: Coded for 120 minutes. Currently at 50% on Web Dev course. Finished RGB Color Game!
+
+**Thoughts**: Stoked I have something to add to my portfolio!
