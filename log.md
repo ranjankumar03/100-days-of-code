@@ -469,6 +469,6 @@
 
 ### Day 70: April 16th, 2017
 
-**Today's Progress**: Coded for 77 minutes. Currently at 53% on Web Dev course. Learned about jQuery.
+**Today's Progress**: Coded for 146 minutes. Currently at 55% on Web Dev course. Learned about jQuery.
 
 **Thoughts**: Feeling fantastic! Way more confident in my abilities after making that RGB Guessing Game. 
