@@ -472,3 +472,10 @@
 **Today's Progress**: Coded for 146 minutes. Currently at 55% on Web Dev course. Learned about jQuery.
 
 **Thoughts**: Feeling fantastic! Way more confident in my abilities after making that RGB Guessing Game. 
+
+
+### Day 71: April 17th, 2017
+
+**Today's Progress**: Coded for 140 minutes. Currently at 58% on Web Dev course. Finished todo list app. Started Patatap clone.
+
+**Thoughts**: Loving these projects! Thinking it would be cool to make a Patatap clone that teaches you the sounds of a language.
