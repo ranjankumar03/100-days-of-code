@@ -479,3 +479,10 @@
 **Today's Progress**: Coded for 200 minutes. Currently at 58% on Web Dev course. Finished todo list app. Started Patatap clone. LONGEST DAY OF CODING YET!
 
 **Thoughts**: Loving these projects! Thinking it would be cool to make a Patatap clone that teaches you the sounds of a language.
+
+
+### Day 72: April 18th, 2017
+
+**Today's Progress**: Coded for 182 minutes. Now at 63% on Web Dev course. Finished Patatap clone after some debugging. Started Backend section. A little nervous because I've never done it before but excited to learn!
+
+**Thoughts**: I'm somehow finding a lot more time for coding- which is awesome! This is my third day overall with > 3 hrs time spent coding. Yes, this includes tutorials but I'm progressing quickly I think. 
