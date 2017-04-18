@@ -476,6 +476,6 @@
 
 ### Day 71: April 17th, 2017
 
-**Today's Progress**: Coded for 140 minutes. Currently at 58% on Web Dev course. Finished todo list app. Started Patatap clone.
+**Today's Progress**: Coded for 200 minutes. Currently at 58% on Web Dev course. Finished todo list app. Started Patatap clone. LONGEST DAY OF CODING YET!
 
 **Thoughts**: Loving these projects! Thinking it would be cool to make a Patatap clone that teaches you the sounds of a language.
