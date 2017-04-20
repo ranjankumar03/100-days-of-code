@@ -486,3 +486,10 @@
 **Today's Progress**: Coded for 182 minutes. Now at 63% on Web Dev course. Finished Patatap clone after some debugging. Started Backend section. A little nervous because I've never done it before but excited to learn!
 
 **Thoughts**: I'm somehow finding a lot more time for coding- which is awesome! This is my third day overall with > 3 hrs time spent coding. Yes, this includes tutorials but I'm progressing quickly I think. 
+
+
+### Day 73: April 19th, 2017
+
+**Today's Progress**: Coded for 106 minutes. Now at 67% on Web Dev course. Started working in ExpressJS. Pretty easy to understand.
+
+**Thoughts**: Still not sure how I feel about the Backend. It doesn't seem too bad? We'll see what my thoughts are as I dive deeper. I like that it makes websites dynamic though!
