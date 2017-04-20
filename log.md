@@ -493,3 +493,10 @@
 **Today's Progress**: Coded for 106 minutes. Now at 67% on Web Dev course. Started working in ExpressJS. Pretty easy to understand.
 
 **Thoughts**: Still not sure how I feel about the Backend. It doesn't seem too bad? We'll see what my thoughts are as I dive deeper. I like that it makes websites dynamic though!
+
+
+### Day 74: April 20th, 2017
+
+**Today's Progress**: Coded for 195 minutes. Now at 70% on Web Dev course. Started learning about APIs and how to make API requests.
+
+**Thoughts**: Feeling a strong boost of energy! Glad to have gone to coffeeshop to code and be out of the house.
