@@ -500,3 +500,18 @@
 **Today's Progress**: Coded for 195 minutes. Now at 70% on Web Dev course. Started learning about APIs and how to make API requests.
 
 **Thoughts**: Feeling a strong boost of energy! Glad to have gone to coffeeshop to code and be out of the house.
+
+
+### Day 75: April 21st, 2017
+
+**Today's Progress**: Coded for 85 minutes. Reached 72% on Web Dev course. 
+
+**Thoughts**: Feeling great about POST and GET routes.
+
+### SKIPPED April 22nd, 2017 because I was camping.
+
+### Day 76: April 23rd, 2017
+
+**Today's Progress**: Coded for 32 minutes. Reached 73% on Web Dev course.
+
+**Thoughts**: Need to keep back in the groove after my day off camping yesterday. Didn't hit my goal of 75% by April 24th but I'll make up for it this week.
