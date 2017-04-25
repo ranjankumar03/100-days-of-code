@@ -508,10 +508,19 @@
 
 **Thoughts**: Feeling great about POST and GET routes.
 
+
 ### SKIPPED April 22nd, 2017 because I was camping.
+
 
 ### Day 76: April 23rd, 2017
 
 **Today's Progress**: Coded for 32 minutes. Reached 73% on Web Dev course.
 
 **Thoughts**: Need to keep back in the groove after my day off camping yesterday. Didn't hit my goal of 75% by April 24th but I'll make up for it this week.
+
+
+### Day 77: April 24th, 2017
+
+**Today's Progress**: Coded for 38 minutes. Reached 75% on Web Dev course. 
+
+**Thoughts**: Didn't have a ton of time today but was able to at least hit 75% today. Only 3% behind for my progress.
