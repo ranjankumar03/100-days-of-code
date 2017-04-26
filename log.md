@@ -524,3 +524,10 @@
 **Today's Progress**: Coded for 38 minutes. Reached 75% on Web Dev course. 
 
 **Thoughts**: Didn't have a ton of time today but was able to at least hit 75% today. Only 3% behind for my progress.
+
+
+### Day 78: April 25th, 2017
+
+**Today's Progress**: Coded for 51 minutes. Still at 75% on WEb Dev course.
+
+**Thoughts**: Had to resolve some issues with MongoDB not shutting down correctly(my bad).
