@@ -531,3 +531,10 @@
 **Today's Progress**: Coded for 51 minutes. Still at 75% on WEb Dev course.
 
 **Thoughts**: Had to resolve some issues with MongoDB not shutting down correctly(my bad).
+
+
+### Day 79: April 26th, 2017
+
+**Today's Progress**: Coded for 157 minutes. Now at 77% on Web Dev course. Had to do some debugging today. I made some silly errors like writing "POSTS" for the type of request instead of "POST" and also including an extra ";" or "="
+
+**Thoughts**: This back-end section is going to take longer than the front-end section.     
