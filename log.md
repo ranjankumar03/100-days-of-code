@@ -538,3 +538,10 @@
 **Today's Progress**: Coded for 157 minutes. Now at 77% on Web Dev course. Had to do some debugging today. I made some silly errors like writing "POSTS" for the type of request instead of "POST" and also including an extra ";" or "="
 
 **Thoughts**: This back-end section is going to take longer than the front-end section.     
+
+
+### Day 80: April 27th, 2017
+
+**Today's Progress**: Coded for 92 minutes. Now at 78% on WDB. More debugging of little errors. Learned about PUT requests.
+
+**Thoughts**: Back-end takes a little bit more time to understand but I'm getting the hang of it!
