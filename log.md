@@ -545,3 +545,10 @@
 **Today's Progress**: Coded for 92 minutes. Now at 78% on WDB. More debugging of little errors. Learned about PUT requests.
 
 **Thoughts**: Back-end takes a little bit more time to understand but I'm getting the hang of it!
+
+
+### Day 81: April 28th, 2017
+
+**Today's Progress**: Coded for 180 minutes. Now at 81% on WDB. Had to do a little debugging. Almost done adding comments part to YelpCamp app.
+
+**Thoughts**: Totally understanding how all this works and feeling good about it! Excited to take what I learn and create something useful for the world (hint-think of a website like Yelp but for campgrounds specifically for hikers/bikers)
