@@ -43,11 +43,13 @@
 
 **Thoughts**: Feeling good! I cranked through those 8 problems and got stuck towards the end of the hour on the 9th challenge "Nested for Loops." I'll figure it out tomorrow. 
 
+
 ### Day 5: February 10th, 2017
 
 **Today's Progress**: Coded for 35 minutes. Wish I had more time. I started "Profile Lookup" challenge but didn't have time to try it more than once. Hopefully I can finish the last 8 Javascript challenges tomorrow or before Monday. 
 
 **Thoughts**: Life is good. Code is good. I am really enjoying this because it brings me back to the days in  Pre-Calc and Calculus when I would have to try a bunch of different ways to get the solution. It's a challenge and I'm ready for it. Bring it on.
+
 
 ### Day 6: February 11th, 2017
 
@@ -67,6 +69,7 @@
 
 **Thoughts**: Felt frustrated today but let it pass on, like a cloud. Tomorrow, I'll work and figure it out (I hope). 
 
+
 ### Day 9: February 14th, 2017
 
 **Today's Progress**: Coded for 45 minutes and figured out the second algorithm on FCC!
@@ -79,11 +82,13 @@
 
 **Thoughts**: Feeling some "resistance" but no one said it was going to be easy! Still trotting along with a big smile.
 
+
 ### Day 11: February 16th, 2017
 
 **Today's Progress**: Coded for 45 minutes. Feeling fantastic! Had an okay day but coding sure has me in high spirits! Read up to page 31 in YDKJS, Up and Going. Practiced JS in the Chrome dev tools console- super cool!
 
 **Thoughts**: I can totally do this! I felt overwhelmed the other day but I'm feeling good now! On track.   
+
 
 ### Day 12: February 17th, 2017
 
@@ -91,11 +96,13 @@
 
 **Thoughts**: The process is slow but if I rush, I won't learn things as well and it will hurt me in the future. #SlowandSteady
 
+
 ### Day 13: February 18th, 2017
 
 **Today's Progress**: Coded for 150 minutes. Feeling great! Finished book 1 in the YDKJS series and started reading the second. Also, began reading Medium article on Pure CSS images. Started working on it in Brackets as well. Had some trouble and didn't finish but will tomorrow.
 
 **Thoughts**: Thinking that I will try to make JavaScript the first language I learn (and learn it well). I've heard that's one of the best things to do- learn your first language well and learn the fundamentals well so that's what I plan to do.
+
 
 ### Day 14: February 19th, 2017
 
@@ -103,11 +110,13 @@
 
 **Thoughts**: After a few more tutorials in CSS, I think I'll be able to make my own images.
 
+
 ### Day 15: February 20th, 2017
 
 **Today's Progress**: Coded for 30 minutes. Finished Chapter 2 of YDKJS series on Lexical Scope. 
 
 **Thoughts**: Learning a lot about JavaScript. Ready to write more code!
+
 
 ### Day 16: February 21st, 2017
 
@@ -115,11 +124,13 @@
 
 **Thoughts**: Definitely understanding JS a lot better now. Looking forward to writing some JS code in the near future.
 
+
 ### Day 17: February 22nd, 2017
 
 **Today's Progress**: Coded for 45 minutes. Finished book 2 (Scopes and Closures) of YDKJS series. 
 
 **Thoughts**: Itching to getting back to writing some actual code.
+
 
 ### Day 18: February 23rd, 2017
 
@@ -127,11 +138,13 @@
 
 **Thoughts**: Thinking that I need to do more JS exercises to fully understand what I'm learning.
 
+
 ### Day 19: February 24th, 2017
 
 **Today's Progress**: Coded for 30 minutes. Finished chapter 3 of YDKSJS book 3 this and object. Also checked out a few courses for developing a website.
 
 **Thoughts**: Thinking I'm going to take a break from all this JavaScript reading and do some actual coding.
+
 
 ### Day 20: February 25th, 2017
 
@@ -139,11 +152,13 @@
 
 **Thoughts**: This is pretty cool! I'm stoked to build a website and learn about Jekyll.
 
+
 ### Day 21: February 26th, 2017
 
 **Today's Progress**: Coded for 30 minutes. Figured out how to get Jekyll site up and ready to customize!
 
 **Thoughts**: Feeling good!
+
 
 ### Day 22: February 27th, 2017
 
@@ -151,11 +166,13 @@
 
 **Thoughts**: I'm feeling anxious! Now that I can code offline and build my website. I'm really wanting to get started already.
 
+
 ### Day 23: February 28th, 2017
 
 **Today's Progress**: Coded for 35 minutes. Learned more about Jekyll through docs and started editing content from basic website iteration. Customizing my content then planning on customizing layout.
 
 **Thoughts**: I like Jekyll! I like that you can write posts and if you set the date to a date in the future, they won't show until that date comes. It's like scheduling posts for the future without dealing with a scheduler. 
+
 
 ### Day 24: March 1st, 2017
 
@@ -163,11 +180,13 @@
 
 **Thoughts**: Jekyll is so wonderful! I created new md files for my pages and that automatically added them into my navbar- so clever
 
+
 ### Day 25: March 2nd, 2017
 
 **Today's Progress**: Coded for 120 minutes - longest day yet. I spent a lot of time adding content to my website. I ran into some trouble though- I have a file on Github, in my repository that has the correct code for the main index.html file but when I visit my Github pages url, it shows the old file. Tomorrow, I'll work on fixing this. 
 
 **Thoughts**: I'm enjoying this! It's really cool to build a website and learn how all the pieces fit together. 
+
 
 ### Day 26: March 3rd, 2017
 
@@ -175,11 +194,13 @@
 
 **Thoughts**: Feeling a little frustrated but I think I'll be able to figure it out soon. 
 
+
 ### Day 27: March 4th, 2017
 
 **Today's Progress**: Coded for 90 minutes. Tried troubleshooting Github and Jekyll problems. Couldn't figure it out so had to make new site from scratch but able to use content from previous version.
 
 **Thoughts**: Felt a little frustrated but ended up staying cool and finding a workaround.
+
 
 ### Day 28: March 5th, 2017
 
@@ -187,11 +208,13 @@
 
 **Thoughts**: I am hoping to finish this basic portfolio soon and then get back to reading on Javascript. 
 
+
 ### Day 29: March 6th, 2017
 
 **Today's Progress**: Coded for 45 minutes. Worked on Portfolio. It's plain, like vanilla, but it's almost done for a basic website.
 
 **Thoughts**: I swear, Brackets has a mind of it's own. I edited a page, hit ctrl + s and then clicked save all and moved onto to the next page to edit and when I returned to the previous page, Brackets had erased my code. Whaddup with that???
+
 
 ### Day 30: March 7th, 2017
 
@@ -199,11 +222,13 @@
 
 **Thoughts**: So I keep editing my html pages, I click save and then create a pull request and merge the files but the text I added to the index.html pages disappears! I think it has something to do with the markdown files I've created for each page. I think I need to delete those. 
 
+
 ### Day 31: March 8th, 2017
 
 **Today's Progress**: Coded for 60 minutes. Successfully created all the pages to my website and deployed them on Github Pages. WOOHOO! Check it out at [jjprevite.github.io]
 
 **Thoughts**: I feel more confident in my abilities than I did a few weeks ago. With time, I was able to figure out how Jekyll works and now have my own website. I also started a tutorial on how to use Illustrator. 
+
 
 ### Day 32: March 9th, 2017
 
@@ -211,11 +236,13 @@
 
 **Thoughts**: Thinking I should start working on my own project. I'm planning on waiting till tomorrow to decide because if I get into a ChingU cohort then I might have a project to work on. Until tomorrow! 
 
+
 ### Day 33: March 10th, 2017
 
 **Today's Progress**: Coded for 30 minutes. Read the last chapter of YDKJS Book 3. Also signed up for Lambda free online mini-boot camp.
 
 **Thoughts**: Excited to learn more Javascript and also hoping to get into Chingu cohort starting on March 17th.
+
 
 ### Day 34: March 11th, 2017
 
@@ -223,11 +250,13 @@
 
 **Thoughts**: I am really interested in front-end work!
 
+
 ### Day 35: March 12th, 2017
 
 **Today's Progress**: Coded for 45 minutes. Watched a few tutorials on Illustrator. 
 
 **Thoughts**: Feeling good! Tomorrow, I start an online mini-bootcamp with Lambda schools. Time for some Javascript.
+
 
 ### Day 36: March 13th, 2017
 
@@ -235,11 +264,13 @@
 
 **Thoughts**: I'm really liking the feeling of this online bootcamp! It's cool having a teacher and knowing that other people are working on the same problems. 
 
+
 ### Day 37: March 14th, 2017
 
 **Today's Progress**: Coded for 90 minutes. Worked on Illustrator tutorial a little then also watched lecture from Lambda Bootcamp. Learned more about Javascript.
 
 **Thoughts**: I feel as though I am starting to get a better understanding of Javascript.
+
 
 ### Day 38: March 15th, 2017
 
@@ -559,3 +590,10 @@
 **Today's Progress**: Coded for 95 minutes. Now at 83% on WDB. Started on Authentication section. Excited to learn how to use Passport JS.
 
 **Thoughts**: Feeling fantastic! The back-end becomes easier the more time I spend learning it!
+
+
+### Day 83: April 30th, 2017
+
+**Today's Progress**: Coded for 70 minutes. Now at 85% on WDB. Added more related to authentication to HikerBikercamp. 
+
+**Thoughts**: Enjoying it! Excited to get this app up and running!
