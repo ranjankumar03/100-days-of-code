@@ -552,3 +552,10 @@
 **Today's Progress**: Coded for 180 minutes. Now at 81% on WDB. Had to do a little debugging. Almost done adding comments part to YelpCamp app.
 
 **Thoughts**: Totally understanding how all this works and feeling good about it! Excited to take what I learn and create something useful for the world (hint-think of a website like Yelp but for campgrounds specifically for hikers/bikers)
+
+
+### Day 82: April 29th, 2017
+
+**Today's Progress**: Coded for 95 minutes. Now at 83% on WDB. Started on Authentication section. Excited to learn how to use Passport JS.
+
+**Thoughts**: Feeling fantastic! The back-end becomes easier the more time I spend learning it!
