@@ -597,3 +597,10 @@
 **Today's Progress**: Coded for 70 minutes. Now at 85% on WDB. Added more related to authentication to HikerBikercamp. 
 
 **Thoughts**: Enjoying it! Excited to get this app up and running!
+
+
+### Day 84: May 1st, 2017
+
+**Today's Progress**: Coded for 92 minutes. Now at 86% on WDB. Almost there! Squashed a bug and refactored code. 
+
+**Thoughts**: Anxious to finish and then apply what I learned to my own projects!
