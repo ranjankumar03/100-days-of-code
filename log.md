@@ -611,3 +611,10 @@
 **Today's Progress**: Coded for 30 minutes. Still at 86% on WDB. 
 
 **Thoughts**: Today was slow. I missed my alarm this morning so I didn't get to code before work. Tuesdays are long so I only had 30 mins to code before bed.
+
+
+### Day 86: May 3rd, 2017
+
+**Today's Progress**: Coded for 90 minutes. Now at 88% on WDB.
+
+**Thoughts**: I'm happy with my progress today! Hoping to finish another section or two this week.
