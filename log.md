@@ -604,3 +604,10 @@
 **Today's Progress**: Coded for 92 minutes. Now at 86% on WDB. Almost there! Squashed a bug and refactored code. 
 
 **Thoughts**: Anxious to finish and then apply what I learned to my own projects!
+
+
+### Day 85: May 2nd, 2017
+
+**Today's Progress**: Coded for 30 minutes. Still at 86% on WDB. 
+
+**Thoughts**: Today was slow. I missed my alarm this morning so I didn't get to code before work. Tuesdays are long so I only had 30 mins to code before bed.
