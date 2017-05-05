@@ -625,3 +625,10 @@
 **Today's Progress**: Coded for 90 minutes. Still at 88% on WDB but spent 60 minutes pair programming with Rachel from Koalas and Future Coding Wizards.
 
 **Thoughts**: Pair programming is AWESOME! It's like solving a puzzle with friends- when you can't figure out where a piece goes, your friend probably can.
+
+
+### Day 88: May 5th, 2017
+
+**Today's Progress**: Coded for 120 minutes. Now at 92% on WDB! More UI changes to go and then I'll be able to deploy it and complete the course.
+
+**Thoughts**: Thankful the TA Ian added more course content!
