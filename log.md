@@ -632,3 +632,10 @@
 **Today's Progress**: Coded for 120 minutes. Now at 92% on WDB! More UI changes to go and then I'll be able to deploy it and complete the course.
 
 **Thoughts**: Thankful the TA Ian added more course content!
+
+
+### Day 89: May 6th, 2017
+
+**Today's Progress**: Coded for 95 minutes. Added Google Maps API. I want to add autocomplete to the input field though.
+
+**Thoughts**: This is pretty cool! Nervous but excited to read docs on how to add autocomplete feature.
