@@ -639,3 +639,10 @@
 **Today's Progress**: Coded for 95 minutes. Added Google Maps API. I want to add autocomplete to the input field though.
 
 **Thoughts**: This is pretty cool! Nervous but excited to read docs on how to add autocomplete feature.
+
+
+### Day 90: May 7th, 2017
+
+**Today's Progress**: Coded for 90 minutes. Added autocomplete feature to input fieldon Yelpcamp. And got to 93% on WDB.
+
+**Thoughts**: Impressed that I was able to find out how to do it so quickly! :D I read the official docs, looked on stackoverflow and then found a blog post on it. Had to fix a bug to make it work on the edit form but I figured it out all on my own!
