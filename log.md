@@ -653,3 +653,10 @@
 **Today's Progress**: Coded for 70 minutes. Now at 94%. Created Heroku account. Learned how using it.
 
 **Thoughts**: Feeling great! Super excited to be able to deploy apps soon.
+
+
+### Day 92: May 9th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Not much progress. Still working on deploying app to Heroku.
+
+**Thoughts**: I hope this last week isn't slow but it might be!
