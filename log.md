@@ -660,3 +660,10 @@
 **Today's Progress**: Coded for 30 minutes. Not much progress. Still working on deploying app to Heroku.
 
 **Thoughts**: I hope this last week isn't slow but it might be!
+
+
+### Day 93: May 10th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Now at 96% on WDB.
+
+**Thoughts**: Almost done!
