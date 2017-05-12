@@ -667,3 +667,10 @@
 **Today's Progress**: Coded for 30 minutes. Now at 96% on WDB.
 
 **Thoughts**: Almost done!
+
+
+### Day 94: Maay 11th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Now at 99% on WDB.
+
+**Thoughts**: So close to finishing!  
