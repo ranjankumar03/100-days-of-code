@@ -669,8 +669,15 @@
 **Thoughts**: Almost done!
 
 
-### Day 94: Maay 11th, 2017
+### Day 94: May 11th, 2017
 
 **Today's Progress**: Coded for 30 minutes. Now at 99% on WDB.
 
 **Thoughts**: So close to finishing!  
+
+
+### Day 95: May 12th, 2017
+
+**Today's Progress**: Coded for 72 minutes. Finished WDB! Started working on basic algorithms- Check Palindrones.
+
+**Thoughts**: Feeling fantastic that I finished WDB! I can totally figure this out!
