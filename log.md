@@ -681,3 +681,10 @@
 **Today's Progress**: Coded for 72 minutes. Finished WDB! Started working on basic algorithms- Check Palindrones.
 
 **Thoughts**: Feeling fantastic that I finished WDB! I can totally figure this out!
+
+
+### Day 96: May 13th, 2017
+
+**Today's Progress**: Coded for 40 minutes. Solved the Check for Palindromes algorithm on FCC.
+
+**Thoughts**: The code isn't very pretty but it works! I need to review the solutions on the FCC wikia soon.
