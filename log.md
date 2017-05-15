@@ -688,3 +688,10 @@
 **Today's Progress**: Coded for 40 minutes. Solved the Check for Palindromes algorithm on FCC.
 
 **Thoughts**: The code isn't very pretty but it works! I need to review the solutions on the FCC wikia soon.
+
+
+### Day 97: May 14th, 2017
+
+**Today's Progress**: Coded for 70 minutes. Worked on FCC Basic Algorithms: Title Case a Sentence.
+
+**Thoughts**: Feeling a little frustrated. I know what I want to do and I wrote the code to do it but it's just not working. I want to figure it out on my own though. I know I can.
