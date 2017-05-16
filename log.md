@@ -695,3 +695,10 @@
 **Today's Progress**: Coded for 70 minutes. Worked on FCC Basic Algorithms: Title Case a Sentence.
 
 **Thoughts**: Feeling a little frustrated. I know what I want to do and I wrote the code to do it but it's just not working. I want to figure it out on my own though. I know I can.
+
+
+### Day 98: May 15th, 2017
+
+**Today's Progress**: Codedfor 70 minutes. Solved Return the Largest Numbers in Arrays algorithm. Almost solved Confirm the Ending.
+
+**Thoughts**: I like algorithms! Makes me think back to math class in high school.
