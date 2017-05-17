@@ -699,6 +699,13 @@
 
 ### Day 98: May 15th, 2017
 
-**Today's Progress**: Codedfor 70 minutes. Solved Return the Largest Numbers in Arrays algorithm. Almost solved Confirm the Ending.
+**Today's Progress**: Coded for 70 minutes. Solved Return the Largest Numbers in Arrays algorithm. Almost solved Confirm the Ending.
 
 **Thoughts**: I like algorithms! Makes me think back to math class in high school.
+
+
+### Day 99: May 16th, 2017
+
+**Today's Progress**: Coded for 30 minutes. Worked on Truncate a String algorithm from FCC.
+
+**Thoughts**: Wow, I can't believe tomorrow is my 100th day!
