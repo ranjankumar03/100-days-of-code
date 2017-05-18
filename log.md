@@ -709,3 +709,10 @@
 **Today's Progress**: Coded for 30 minutes. Worked on Truncate a String algorithm from FCC.
 
 **Thoughts**: Wow, I can't believe tomorrow is my 100th day!
+
+
+### Day 100: May 17th, 2017
+
+**Today's Progress**: Coded for 250 minutes- longest day of the entire challenge! Worked on Chunky Monkey, Roman Numeral and Where art thou FCC algorithms.
+
+**Thoughts**: I can't believe it's over! I remember starting the challenge in February as if it were yesterday. It's crazy to think how much I've learned over these 100 days. I only missed 1 day the entire challenge. Now, I want to take a day or two to rest (I'll still be coding but in a less structured manner at least for a few days) and then I can write up a formal reflection to post on Medium.
