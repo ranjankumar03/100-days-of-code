@@ -4,7 +4,7 @@
 ### *I, Ranjan Kumar, will code for at least 30 minutes every day for the next 100 days.*
 
 #### Start Date
-February 6th, 2017. 
+June 3rd, 2017. 
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
